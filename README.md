@@ -19,10 +19,10 @@
 * viola !
 
 ## API in action 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-![POST base64 string](https://drive.google.com/file/d/0B9kSEIlZqe2-b2NJNkthLXJmMWE5ZzNiOWMxQl8zN3BOLS1J/view?usp=sharing "POST base64 string")
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![f1](https://github.com/shubagr/extract-date--from-receipts/blob/master/f1.png "user inut")
+![POST base64 string](https://github.com/shubagr/extract-date--from-receipts/blob/master/f2.png "POST base64 string")
+![f2](https://github.com/shubagr/extract-date--from-receipts/blob/master/f3.png "Date result =null if not present")
+![f3](https://github.com/shubagr/extract-date--from-receipts/blob/master/f4.png "If date present")
 
 
 
