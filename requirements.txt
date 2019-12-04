@@ -20,4 +20,5 @@ requests-oauthlib==1.2.0
 sqlparse==0.3.0
 textblob==0.15.3
 urllib3==1.25.3
-
+libglib-2.0.so.0
+libgthread-2.0.so.0
