@@ -48,7 +48,7 @@ def date_extract(request):
 
 	
 	_url = 'https://southeastasia.api.cognitive.microsoft.com//vision/v2.0/recognizeText'
-	_key = "c18117db615f4e1f98116e8c7de42617"
+	_key = "***************"
 	_maxNumRetries = 10
 
 	def result_microsoft_api(filepath):
@@ -215,10 +215,7 @@ def date_extract(request):
 
 
 
-# def redirect_course(request):
-#         date_extract(request)
-#         return redirect('results/')
-# ~                                        
+                                   
 
 
 
